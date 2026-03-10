@@ -6,7 +6,7 @@ COVID-19 Data Explorer Dashboard
 
 The COVID-19 Data Explorer Dashboard is an interactive data visualisation platform designed to provide real-time insights into the impact of the COVID-19 pandemic across the UK.
 
-Developed as part of my MSc in Computer Science and Information Systems, this project demonstrates the use of public health data APIs, data processing techniques, and interactive visualisation tools to support data-driven decision-making.
+Developed as part of a personal project with an interest in learning software development. This project demonstrates the use of public health data APIs, data processing techniques, and interactive visualisation tools to support data-driven decision-making.
 
 The dashboard focuses on:
 	•	Daily and cumulative COVID-19 deaths over time
@@ -124,7 +124,7 @@ http://127.0.0.1:5000
 
 📌 Academic Context
 
-This project was completed as part of my MSc in Computer Science and Information Systems at Queen Mary University of London. It demonstrates the practical application of:
+This project was completed as part of my interest in exploring programming. It demonstrates the practical application of:
 	•	Data engineering principles
 	•	Statistical analysis
 	•	Software development
