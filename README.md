@@ -2,7 +2,7 @@
 
 COVID-19 Data Explorer Dashboard
 
-📊 Project Overview
+# 📊 Project Overview
 
 The COVID-19 Data Explorer Dashboard is an interactive data visualisation platform designed to provide real-time insights into the impact of the COVID-19 pandemic across the UK.
 
@@ -18,7 +18,7 @@ The goal of this project is to transform raw public health data into accessible,
 
 ⸻
 
-🎯 Objectives
+# 🎯 Objectives
 	•	Provide real-time access to official UK COVID-19 statistics
 	•	Enable users to explore trends through interactive visualisations
 	•	Analyse demographic impact (age and sex breakdown)
@@ -27,7 +27,7 @@ The goal of this project is to transform raw public health data into accessible,
 
 ⸻
 
-🗂 Data Source
+# 🗂 Data Source
 
 Data is sourced from the UK Government’s public health data API, previously maintained by Public Health England (PHE).
 
@@ -38,7 +38,7 @@ The dashboard retrieves structured data directly from the official API to ensure
 
 ⸻
 
-⚙️ Key Features
+# ⚙️ Key Features
 	•	✅ Real-time data retrieval from UK Government API
 	•	📈 Interactive charts for daily and cumulative deaths
 	•	👥 Age and sex distribution breakdowns
@@ -48,11 +48,11 @@ The dashboard retrieves structured data directly from the official API to ensure
 
 ⸻
 
-🛠 Technical Implementation
+# 🛠 Technical Implementation
 
 (Edit this section based on what you used — here’s a strong generic template.)
 
-Technologies Used:
+### Technologies Used:
 	•	Python
 	•	Pandas
 	•	Requests (API integration)
@@ -60,7 +60,7 @@ Technologies Used:
 	•	Dash / Flask / Streamlit (Web framework, if applicable)
 	•	JSON data processing
 
-Core Components:
+### Core Components:
 	1.	API Integration
 	•	Fetches live COVID-19 data from UK Government API
 	•	Handles data parsing and transformation
@@ -75,9 +75,9 @@ Core Components:
 
 ⸻
 
-📊 Dashboard Insights
+# 📊 Dashboard Insights
 
-The dashboard allows users to:
+### The dashboard allows users to:
 	•	Identify peak infection and mortality periods
 	•	Compare regional trends
 	•	Analyse demographic vulnerability patterns
@@ -85,7 +85,7 @@ The dashboard allows users to:
 
 By presenting structured public health data visually, the project highlights how analytics can support crisis monitoring and evidence-based policy.
 
-🚀 How to Run the Project
+# 🚀 How to Run the Project
 # Clone the repository
 git clone https://github.com/yourusername/covid-dashboard.git
 
@@ -103,7 +103,7 @@ Then open your browser and navigate to:
 http://127.0.0.1:5000
 (Adjust based on your framework.)
 
-📁 Project Structure
+# 📁 Project Structure
 ├── app.py
 ├── data/
 ├── static/
@@ -111,7 +111,7 @@ http://127.0.0.1:5000
 ├── requirements.txt
 └── README.md
 
-💡 Skills Demonstrated
+# 💡 Skills Demonstrated
 	•	API integration and data retrieval
 	•	Data cleaning and transformation
 	•	Time-series analysis
@@ -122,7 +122,7 @@ http://127.0.0.1:5000
 
 ⸻
 
-📌 Academic Context
+# 📌 Academic Context
 
 This project was completed as part of my interest in exploring programming. It demonstrates the practical application of:
 	•	Data engineering principles
@@ -132,7 +132,7 @@ This project was completed as part of my interest in exploring programming. It d
 
 ⸻
 
-🔮 Future Improvements
+# 🔮 Future Improvements
 	•	Deployment to AWS (EC2 or Elastic Beanstalk)
 	•	Docker containerisation
 	•	CI/CD pipeline integration
