@@ -87,7 +87,7 @@ By presenting structured public health data visually, the project highlights how
 
 # 🚀 How to Run the Project
 # Clone the repository
-git clone https://github.com/yourusername/covid-dashboard.git
+git clone https://github.com/raineybon07/covid-dashboard.git
 
 # Navigate into project directory
 cd covid-dashboard
